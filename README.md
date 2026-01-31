@@ -9,15 +9,20 @@
 
 ## 📱 لقطات الشاشة
 
+ ## 📱 لقطات الشاشة
+
 <div align="center">
-  <img src="app/home.jpg?raw=true" width="220"/>
-  <img src="app/books.jpg?raw=true" width="220"/>  
-  <img src="app/quotes.jpg?raw=true" width="220"/>
-  <br><br>
-  <img src="app/info.jpg?raw=true" width="220"/>
-  <img src="app/interviews.jpg?raw=true" width="220"/>
-  <img src="app/splash.jpg?raw=true" width="220"/>
+  <img src="https://raw.githubusercontent.com/AHMED-MOHSEN-DEV/ng/main/app/home.jpg" width="220"/>
+  <img src="https://raw.githubusercontent.com/AHMED-MOHSEN-DEV/ng/main/app/books.jpg" width="220"/>
+  <img src="https://raw.githubusercontent.com/AHMED-MOHSEN-DEV/ng/main/app/quotes.jpg" width="220"/>
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AHMED-MOHSEN-DEV/ng/main/app/info.jpg" width="220"/>
+  <img src="https://raw.githubusercontent.com/AHMED-MOHSEN-DEV/ng/main/app/interviews.jpg" width="220"/>
+  <img src="https://raw.githubusercontent.com/AHMED-MOHSEN-DEV/ng/main/app/splash.jpg" width="220"/>
+</div>
+
 
 ---
 
