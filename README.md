@@ -7,24 +7,20 @@
 
 ---
 
+## 📱 Screenshots
 
- ## 📱 لقطات الشاشة
+![الصفحة الرئيسية](home.jpg)
+![المعلومات](info.jpg)
+![الكتب](information.jpg)
+![المقابلات](interviews.jpg)
+![اقتباسات](quotes.jpg)
+![اقتباسات إضافية](quotes1.jpg)
+![شاشة البداية](splash.jpg)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AHMED-MOHSEN-DEV/ng/main/app/home.jpg" width="220"/>
-  <img src="https://raw.githubusercontent.com/AHMED-MOHSEN-DEV/ng/main/app/books.jpg" width="220"/>
-  <img src="https://raw.githubusercontent.com/AHMED-MOHSEN-DEV/ng/main/app/quotes.jpg" width="220"/>
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AHMED-MOHSEN-DEV/ng/main/app/info.jpg" width="220"/>
-  <img src="https://raw.githubusercontent.com/AHMED-MOHSEN-DEV/ng/main/app/interviews.jpg" width="220"/>
-  <img src="https://raw.githubusercontent.com/AHMED-MOHSEN-DEV/ng/main/app/splash.jpg" width="220"/>
-</div>
 
 
 ---
 
 
-## ✨ المميزات
 
