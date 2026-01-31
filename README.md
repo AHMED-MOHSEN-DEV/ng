@@ -1,16 +1,24 @@
-# ramy
+# Naguib Mahfouz App 📚
 
-A new Flutter project.
+<div align="center">
+  <img src="https://github.com/AHMED-MOHSEN-DEV/ng/raw/main/assets/ng5.jpg" alt="Naguib Mahfouz" width="200"/>
+  <br><br>
+  
+  ### Interactive app for the Nobel Prize-winning author
+  
+  [![Flutter](https://img.shields.io/badge/Flutter-3.10.1-02569B?logo=flutter)](https://flutter.dev)
+  [![Dart](https://img.shields.io/badge/Dart-3.10.1-0175C2?logo=dart)](https://dart.dev)
+  [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+</div>
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📖 About
 
-A few resources to get you started if this is your first Flutter project:
+**Naguib Mahfouz App** is a comprehensive interactive platform showcasing the life, works, and legacy of Egypt's Nobel Prize-winning author. Features 36 complete novels, inspirational quotes, rare interviews, and detailed biography.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Key Features
+
+### 📚 **Book Library** (36 Novels)
